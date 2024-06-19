@@ -14,10 +14,13 @@ Todo\:
       (https://forum.arduino.cc/t/controlling-automower/226731)
 - [x] Spoof movment command sets from Tweak Automower by Poildecarotte
 - [x] Make a basic commandline python script
-- [x] Install Raspberry with neccesary mods for DC power ( partly done )<br/>
+- [x] Install Raspberry with neccesary mods for DC power <br/>
+![Power](https://github.com/Net-time/piAutomower2xx/assets/47906827/7c7b58d7-ff94-4140-807c-87cf5e59d1b4)
+
       Ok lost track a bit here and mouted a pair of foam cannons and a Darth Vader clock modified to webcam.
+      Added a speaker, external reset and volume
       Made a GUI but never got around to automate it for chasing the cat.
-![HMmod2](https://github.com/Net-time/piAutomower2xx/assets/47906827/16978325-01e5-43bc-9385-7d819e484d05)
+![HMmod3](https://github.com/Net-time/piAutomower2xx/assets/47906827/7cfcca9d-5ed6-44a1-9548-a2361cc3d28a)
 
 - [ ] Modify mower to be able to control it with lid closed ( disable lid switch from raspberry gpio )
 - [ ] Figure out how to control wheel speed ( partly done )
