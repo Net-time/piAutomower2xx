@@ -15,7 +15,8 @@ Todo\:
 - [x] Spoof movment command sets from Tweak Automower by Poildecarotte
 - [x] Make a basic commandline python script
 - [x] Install Raspberry with neccesary mods for DC power <br/>
-![Power](https://github.com/Net-time/piAutomower2xx/assets/47906827/7c7b58d7-ff94-4140-807c-87cf5e59d1b4)
+
+![Internal connections](https://github.com/Net-time/piAutomower2xx/assets/47906827/0ed08f34-b8df-4ce5-9829-5643535ac454)
 
       Ok lost track a bit here and mouted a pair of foam cannons and a Darth Vader clock modified to webcam.
       Added a speaker, external reset and volume
